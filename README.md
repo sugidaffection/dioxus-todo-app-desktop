@@ -1,3 +1,5 @@
+![Todo List App Preview](image.png)
+
 # Development
 
 Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
