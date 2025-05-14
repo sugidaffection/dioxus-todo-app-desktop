@@ -32,3 +32,10 @@ To run for a different platform, use the `--platform platform` flag. E.g.
 dx serve --platform desktop
 ```
 
+### Bundling Your App
+
+To bundle your app for distribution, use the `bundle` command with your target platform:
+
+```bash
+dx bundle --release --platform desktop
+```
